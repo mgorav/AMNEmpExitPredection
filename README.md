@@ -1,7 +1,7 @@
 # AMNEmpExitPredection
 Keras based ANN which predicts employee exit/leaving for a company
 
-Keras based ANN Architeture:
+Keras based ANN architecture:
 1. One Input Layer
    The Input layer takes 11 dimensions.
 2. Two Hindden Layer
