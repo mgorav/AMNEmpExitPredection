@@ -6,8 +6,11 @@ Keras based ANN architecture:
    The Input layer takes 11 dimensions.
 2. Two Hindden Layer
    The first hidden layer takes 11 demension and the second hidder layer 6 dimension. Both hidden layer uses activation function - "relu"
-   The output layer uses "sigmoid" activiation function.
 3. An Output Layer
-   The ANN is compiled using "adam" optimizer and loss function as "binary_crossentropy"
+   The output layer uses "sigmoid" activiation function.
+
+This predictor also demonstated the concept of "One Hot Encoding"
+   
+ The ANN is compiled using "adam" optimizer and loss function as "binary_crossentropy"
 
 Using above ANN model, accuracy around 85% was achieved, which is NOT BAD!!!
