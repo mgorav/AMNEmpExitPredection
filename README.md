@@ -9,7 +9,7 @@ Keras based ANN architecture:
 3. An Output Layer
    The output layer uses "sigmoid" activiation function.
 
-This predictor also demonstated the concept of "One Hot Encoding"
+This predictor also demonstates the concept of "One Hot Encoding" also
    
  The ANN is compiled using "adam" optimizer and loss function as "binary_crossentropy"
 
