@@ -11,6 +11,6 @@ Keras based ANN architecture:
 
 This predictor also demonstates the concept of "One Hot Encoding" also
    
- The ANN is compiled using "adam" optimizer and loss function as "binary_crossentropy"
+The ANN is compiled using "adam" optimizer and loss function as "binary_crossentropy". Further the model fits the training set in a bach size of 10 & epoc of 100.
 
 Using above ANN model, accuracy around 85% was achieved, which is NOT BAD!!!
