@@ -1,4 +1,4 @@
-# AMNEmpExitPredection
+# ANNEmpExitPredection
 Keras based ANN which predicts employee exit/leaving for a company
 
 Keras based ANN architecture:
